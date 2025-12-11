@@ -4,4 +4,4 @@ Collection of my professional data analyst project using Excel, SQL, Tableau, an
 ### Featured Projects (Curently in Progress)
 * **1. SQL Data Analyst Project.** **"Coming Soon"**
 * **2. Capstone Project.** **"Coming Soon"**
-* **3. Excel Project.** **Coming Soon"**
+* **3. Excel Project.** **"Coming Soon"**
